@@ -145,42 +145,7 @@ The component list is based on the project document. The value of one biasing re
 ![Circuit Diagram](images/circuit-diagram.png)
 ```
 
----
 
-
-
----
-
-
-
----
-
-### 5. Output Waveform
-
-
-### 6. Project Team
-
-> **Add team photograph here**
-
-```markdown
-![Project Team](images/team-photo.jpg)
-```
-
----
-
-## 📐 Circuit Diagram
-
-The project includes a circuit implementation based on an **NE555 timer, MOSFET switching stage, inductor, capacitors, resistors, and feedback components**.
-
-### Circuit Schematic
-
-```markdown
-![Circuit Schematic](images/circuit-diagram.png)
-```
-
-> Replace the filename above with the actual image you upload to the `images` folder.
-
----
 
 ## 🔄 Control & Feedback
 
