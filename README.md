@@ -52,7 +52,7 @@ DC Output
 ## 🔩 Physical Circuit
 
 ![Breadboard Circuit](<img width="1040" height="646" alt="WhatsApp Image 2026-04-23 at 9 31 13 PM (1)" src="https://github.com/user-attachments/assets/38121263-3218-49ab-84ee-78e2fd0ea7cf" />
-)
+.jpg)
 
 ---
 
