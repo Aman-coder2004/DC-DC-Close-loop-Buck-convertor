@@ -11,9 +11,10 @@ In this project, a **closed-loop approach** is used to improve output voltage st
 
 ## ⚙️ Working Principle
 
-The **NE555 timer** generates the PWM signal, while the switching stage controls the energy transferred through the inductor. The capacitor filters the output to obtain a smoother DC voltage.
+The NE555 timer is used to generate the PWM signal. The duty cycle can be adjusted using a potentiometer.
 
-```text
+The PWM signal controls the MOSFET switching operation. The inductor stores and releases energy during the switching cycle, while the output capacitor filters the voltage to obtain a smoother DC output.
+
 DC Input
    ↓
 NE555 Timer
@@ -24,7 +25,7 @@ MOSFET Switching
    ↓
 Inductor
    ↓
-Output Filtering
+Output Capacitor
    ↓
 DC Output
 ```
