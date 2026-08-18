@@ -67,3 +67,9 @@ DC Output
 * Feedback Control
 * Voltage Regulation
 * Power Electronics
+  
+## 💻 Simulation
+
+The circuit was designed and simulated using **Proteus Design Suite**.
+
+**Software:** [Proteus Design Suite](https://www.labcenter.com/)
