@@ -28,7 +28,7 @@ Inductor
 Output Capacitor
    ↓
 DC Output
-```
+
 
 ## 🔧 Components
 
