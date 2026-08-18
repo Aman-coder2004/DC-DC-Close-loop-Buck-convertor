@@ -147,35 +147,16 @@ The component list is based on the project document. The value of one biasing re
 
 ---
 
-### 3. Breadboard Prototype
 
-> **Add your breadboard implementation photograph here**
-
-```markdown
-![Breadboard Prototype](images/breadboard-prototype.jpg)
-```
 
 ---
 
-### 4. PCB / Final Implementation
 
-> **Add PCB photograph here if available**
-
-```markdown
-![PCB Implementation](images/pcb-implementation.jpg)
-```
 
 ---
 
 ### 5. Output Waveform
 
-> **Add CRO/oscilloscope output waveform here**
-
-```markdown
-![Output Waveform](images/output-waveform.png)
-```
-
----
 
 ### 6. Project Team
 
