@@ -46,7 +46,7 @@ DC Output
 ## 📐 Circuit Diagram
 
 ![Circuit Diagram](<img width="1920" height="1140" alt="Screenshot 2026-03-26 152433" src="https://github.com/user-attachments/assets/b1a8650e-5689-43e7-ad78-fb6d866c3c1c" />
-)
+.jpg)
 
 ---
 
