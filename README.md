@@ -1,4 +1,4 @@
-# DC-DC-open-loop-Buck-convertor
+# DC-DC-close-loop-Buck-convertor
 # 🔋 Closed-Loop Buck Converter
 
 A **Closed-Loop Buck Converter** designed to step down a higher DC input voltage to a regulated lower DC output voltage using PWM-based switching and feedback control.
